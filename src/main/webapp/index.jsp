@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>test Jenkins</h2>
+<h2>today is a good day</h2>
 </body>
 </html>
